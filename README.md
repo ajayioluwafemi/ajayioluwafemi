@@ -1,4 +1,4 @@
-## Hi, I'm Ajayi Oluwafemi Oladayo👋
+## Hi, I'm Ajayi Oluwafemi Oladayo
 
 Data Analyst with 9 years of progressive experience in technical operations, customer success, and compliance reporting across telecoms, energy, and logistics. MSc Information Technology with Data Analytics from the University of the West of Scotland (2026), specialising in machine learning, time-series forecasting, and interpretable AI.
 
@@ -32,4 +32,4 @@ I translate complex datasets into clear business decisions. My day-to-day toolki
 📧 femidayo5@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/oluwafemi-ajayi-71939062/)
 📍 Glasgow, Scotland
-*Open to data analyst, BI analyst, and ML engineer roles — UK remote, hybrid, or onsite within commuting distance of Glasgow.*
+*Open to data analyst, BI analyst, and ML engineer roles — UK remote, hybrid, onsite, available to relocate.*
